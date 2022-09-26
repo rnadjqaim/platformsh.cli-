@@ -1,0 +1,9 @@
+platform 
+platform build
+platform tunned 
+git add . 
+git commit -m "file name .ex" 
+#----------
+branches in enviroment 
+platform sync -e feauture data code
+#sync : Replace the data (e.g. databases, uploaded files) of feauture with that from dev.(i have two branches : dev, fearures )
