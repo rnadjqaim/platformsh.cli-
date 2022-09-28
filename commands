@@ -12,3 +12,7 @@ rsync -az `platform ssh --pipe`:/app/private/ ./private/
 -platform ssh : return ssh url for enviroment
 #------------
 Gatsby is a blazing-fast website framework for React. It allows developers to build React-based websites within minutes. Whether you want to develop a blog or a corporate website, Gatsby will fill your needs.
+#---------
+platform backup:create
+to create backup 
+#-----------------------------------
